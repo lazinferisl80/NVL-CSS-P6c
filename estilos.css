@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    background: black;
+    color:white
+
+}
+div h1{
+    text-align: center;
+    background: chocolate;
+    color: rgba(228, 178, 137, 0.89);
+}
+
+div img{
+    text-align: left;
+    margin-left:500px;
+    margin-right: 200px;
+}
+
+div{
+    text-align: left;
+    border:2px
+}
+h2{
+    background: goldenrod;
+    color: rgba(231, 226, 200, 0.938);
+}
+article{
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+
+
